@@ -1,4 +1,4 @@
-# fcc - Celestial Bodies Database Project
+# fcc - "Celestial Bodies" Project
 
 This is just the repository needed for completing the fcc project.
 
